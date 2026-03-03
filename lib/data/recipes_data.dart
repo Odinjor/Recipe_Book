@@ -6,6 +6,8 @@ final List<Recipe> sampleRecipes = [
   Recipe(
     name:'Jollof Rice',
     imagePath: 'assets/images/Jollof.jpg',
+    country: 'Nigeria',
+    flagPath: 'assets/images/flags/Nigerian_Flag.jpg',
     ingredients: [
       'For the pepper stew base:\n',
       ' - 2 red bell peppers, stems and seeds removed and roughly chopped\n',
@@ -33,12 +35,14 @@ final List<Recipe> sampleRecipes = [
       'Optional garnishes:\n',
       ' - 2 tablespoons unsalted butter, cut into 4 cubes\n',
     ],
-    instructions: 'Preheat the oven to 350°F (175°C).\n Prepare the pepper stew base: Add the bell peppers, tomato, onion, scotch bonnet or habanero pepper, ginger, and garlic into a blender, and blend until smooth. Set aside.\n Fry the onions: Heat the oil in a large Dutch oven (mine holds 3 quarts) or a heavy-bottomed pot over medium heat. Add the onions and fry for 2 to 3 minutes, until fragrant and the edges get a little brown. Scoop out about a third of the fried onions on a small plate or bowl, and set them aside. You will use it to top the jollof rice at the end.\n Cook the tomato paste: Add the tomato paste and cook it for 4 to 5 minutes, stirring frequently. The oil should turn red, and the paste should look grainy. Reduce the heat if the paste starts sticking to the bottom of the pot and burning.\n Cook the pepper stew base: Carefully stir in pepper stew base, and cook it uncovered for 20 to 25 minutes until reduced by about half. Stir the mixture occasionally with a wooden spoon and scrape up any bits that stick to the bottom of the pot. The mixture will splatter quite a bit! Keep it covered with a splatter guard or place a lid on top slightly ajar so that moisture can escape. Adjust the heat as needed if you notice it burning or if it\\’s not simmering.\n Add the rice and seasonings: Stir in the rice, curry powder, bouillon cube, dried thyme, garlic powder, onion powder, nutmeg, bay leaves, and salt. Cook for about 3 minutes, stirring frequently. Then add the chicken stock, and bring it to a simmer.\n Bake the jollof rice: Turn the heat off and tightly cover the pot with foil and a lid. Transfer the pot to the preheated oven and bake, undisturbed, for about 40 minutes.\n Add butter: If using the butter (I highly recommend it!), remove the pot from the oven and dollop the pats of butter on top. Sprinkles the reserved fried onions on top too. Cover the pot again with the foil and lid, and bake for 5 minutes.\n Serve: Gently stir the rice to incorporate the butter, peas, and onions. Discard the bay leaves and transfer the rice to a platter, if you\\’d like. Serve warm. Store leftovers tightly covered in the refrigerator for up to 4 days. Reheat in the microwave in 1-minute intervals until heated through.  ',
+    instructions: 'Preheat the oven to 350°F (175°C).\n Prepare the pepper stew base: Add the bell peppers, tomato, onion, scotch bonnet or habanero pepper, ginger, and garlic into a blender, and blend until smooth. Set aside.\n Fry the onions: Heat the oil in a large Dutch oven (mine holds 3 quarts) or a heavy-bottomed pot over medium heat. Add the onions and fry for 2 to 3 minutes, until fragrant and the edges get a little brown. Scoop out about a third of the fried onions on a small plate or bowl, and set them aside. You will use it to top the jollof rice at the end.\n Cook the tomato paste: Add the tomato paste and cook it for 4 to 5 minutes, stirring frequently. The oil should turn red, and the paste should look grainy. Reduce the heat if the paste starts sticking to the bottom of the pot and burning.\n Cook the pepper stew base: Carefully stir in pepper stew base, and cook it uncovered for 20 to 25 minutes until reduced by about half. Stir the mixture occasionally with a wooden spoon and scrape up any bits that stick to the bottom of the pot. The mixture will splatter quite a bit! Keep it covered with a splatter guard or place a lid on top slightly ajar so that moisture can escape. Adjust the heat as needed if you notice it burning or if it’s not simmering.\n Add the rice and seasonings: Stir in the rice, curry powder, bouillon cube, dried thyme, garlic powder, onion powder, nutmeg, bay leaves, and salt. Cook for about 3 minutes, stirring frequently. Then add the chicken stock, and bring it to a simmer.\n Bake the jollof rice: Turn the heat off and tightly cover the pot with foil and a lid. Transfer the pot to the preheated oven and bake, undisturbed, for about 40 minutes.\n Add butter: If using the butter (I highly recommend it!), remove the pot from the oven and dollop the pats of butter on top. Sprinkles the reserved fried onions on top too. Cover the pot again with the foil and lid, and bake for 5 minutes.\n Serve: Gently stir the rice to incorporate the butter, peas, and onions. Discard the bay leaves and transfer the rice to a platter, if you’d like. Serve warm. Store leftovers tightly covered in the refrigerator for up to 4 days. Reheat in the microwave in 1-minute intervals until heated through.  ',
   ),
 
   Recipe(
     name: 'Suya',
     imagePath: 'assets/images/Suya.jpg',
+    country: 'Nigeria',
+    flagPath: 'assets/images/flags/Nigerian_Flag.jpg',
     ingredients: [
       '1 tablespoon finely ground roasted peanuts\n',
       '1 teaspoon ground paprika\n',
@@ -56,6 +60,8 @@ final List<Recipe> sampleRecipes = [
   Recipe(
     name: 'Chuck Rice & Codfish Gravy',
     imagePath: 'assets/images/ChuckRice_&_Gravy.jpg',
+    country: 'Liberia',
+    flagPath: 'assets/images/flags/Liberian_Flag.jpg',
     ingredients: [
       'Garlic powder, season to taste\n',
       'Onion powder, season to taste\n',
@@ -78,6 +84,8 @@ final List<Recipe> sampleRecipes = [
   Recipe(
     name: 'Indomie Noodles',
     imagePath: 'assets/images/Indomie.jpg',
+    country: 'Nigeria',
+    flagPath: 'assets/images/flags/Nigerian_Flag.jpg',
     ingredients: [
       'As many packs of indomie you want',
       'Your vegetables of choice',

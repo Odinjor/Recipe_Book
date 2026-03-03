@@ -57,6 +57,8 @@ flutter:
     - assets/images/Suya.jpg
     - assets/images/ChuckRice_&_Gravy.jpg
     - assets/images/Indomie.jpg
+    - assets/images/flags/Nigerian_Flag.jpg
+    - assets/images/flags/Liberian_Flag.jpg
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
